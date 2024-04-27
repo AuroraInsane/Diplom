@@ -1,0 +1,4 @@
+1;I.G.Severey;1,2,3;Monday,Thursday;
+2;A.Z.Cerdiyuk;1,2,3;Tuesday;
+3;P.P.Saenko;1,2,3;Wednesday,Saturday;
+4;Z.P.Karpenko;3;Saturday;

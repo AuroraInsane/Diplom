@@ -1,0 +1,9 @@
+11;1;1-place;600;K.N.Cebekov;I.G.Severey,A.Z.Cerdiyuk,P.P.Saenko;
+12;1;1-place;600;A.P.Kornich;I.G.Severey,A.Z.Cerdiyuk,P.P.Saenko;
+13;1;1-place;600;I.K.Sborov;I.G.Severey,A.Z.Cerdiyuk,P.P.Saenko;
+21;2;1-place;600;D.V.Filatov;I.G.Severey,A.Z.Cerdiyuk,P.P.Saenko;
+22;2;2-place;1000;F.E.Sergeev,-;I.G.Severey,A.Z.Cerdiyuk,P.P.Saenko;
+23;2;2-place;1000;M.G.Dgelyaev,-;I.G.Severey,A.Z.Cerdiyuk,P.P.Saenko;
+31;3;2-place;1000;-,-;I.G.Severey,A.Z.Cerdiyuk,P.P.Saenko;
+32;3;3-place;1200;A.A.Korniyenko,I.P.Sergeeva,-;I.G.Severey,A.Z.Cerdiyuk,P.P.Saenko;
+33;3;3-place;1200;-,-,-;I.G.Severey,A.Z.Cerdiyuk,P.P.Saenko;
